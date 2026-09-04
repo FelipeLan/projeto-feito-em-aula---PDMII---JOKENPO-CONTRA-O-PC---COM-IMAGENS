@@ -9,7 +9,7 @@ Ao clicar um dos botões, o programa irá selecionar sua decisão. Ao mesmo temp
 
 
 ##### **Modos de Jogo**
-Normal
+Normal e
 Melhor de 3
 
 
