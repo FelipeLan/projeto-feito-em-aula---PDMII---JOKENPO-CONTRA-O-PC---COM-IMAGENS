@@ -4,8 +4,13 @@
 
 
 
-Ao clicar um dos botões, o programa irá selecionar sua decisão. Ao mesmo tempo irá selecionar sua própria jogada contra o jogador. Após isso, uma mensagem irá mostrar na tela, indicando se o jogador venceu, empatou ou perdeu de acordo com as regras de Jokenpo (Pedra, Papel, Tesoura)
+Ao clicar um dos botões, o programa irá selecionar sua decisão. Ao mesmo tempo irá selecionar sua própria jogada contra o jogador. Após isso, uma mensagem irá mostrar na tela, indicando se o jogador venceu, empatou ou perdeu de acordo com as regras de Jokenpo (Pedra, Papel, Tesoura), contém um botão de limpar tudo e um modo de jogo melhor de 3, além de contar o placar do PC e do Jogador.
 
+
+
+##### **Modos de Jogo**
+Normal
+Melhor de 3
 
 
 ##### 
